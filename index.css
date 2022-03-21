@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(204, 197, 197);
+}
+
+.container{
+    background-color: rgb(204, 197, 197);
+    width: 500px;
+    height: 500px;
+    align-items: center;
+   margin-left: 30%;
+}
+.card-title{
+    display: flex;
+}
+
+h2{
+    padding-left: 3%;
+}
+h3{
+    padding-left: 65%;
+    color: rgb(143, 138, 138);
+}
+.card-img-top-baby{
+    width: 500px;
+    height: 320px;
+}
+
+
+
+
+
+p{
+ 
+ padding-right: 2%;
+ padding-left: 2%;
+
+}
+.cartapanda{
+    background-color: white;
+
+    
+ 
+    
+}
+h1{
+    text-align: center;
+    padding-right: 12%;
+    
+}
+
+.card-title2{
+    display: flex;
+   
+}
